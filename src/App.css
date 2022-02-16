@@ -1,0 +1,27 @@
+.menuSection {
+    height: 100vh;
+    border-right: 1px solid #f3f3f3;
+    background-color: #fafafa;
+}
+
+.menu {
+    height: 100%;
+    border-right: 0;
+}
+
+.contentSection {
+    flex: 3 1;
+    margin: 0;
+    padding: 0 30px 0 30px;
+}
+
+.sectionContainer {
+    display: flex;
+}
+
+.groupTitle {
+    text-transform: uppercase;
+    text-align: center;
+    padding: 5px;
+    margin-top: 5px;
+}
